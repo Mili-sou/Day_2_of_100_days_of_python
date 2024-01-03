@@ -14,3 +14,18 @@ Therefore:-
 # 2.Integer
 Integers are positive and negative whole numbers.
 
+12 #is an integer.
+
+We usually write large integer numbers like 1,20,000 separated by commas.In pytyhon we can write the large integers with underscore as 1_20_000 where the program will ignore the underscore during execution
+(only for human ease).
+
+# 3.Float
+The numbers which are separated by floating points i.e. why these are called floating point numbers.
+Example: 
+1.230 #is a float.
+
+# 4.Boolean
+This includes True and False followed by first letter as capital.It is used check whether the condition is True or False.
+
+While doing programming, we can also  check the type of the variables by using  type() function.
+
